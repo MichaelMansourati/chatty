@@ -10,7 +10,7 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      currentUser: {name: "Guy Fieri"},
+      currentUser: {name: "Anonymous"},
       notifications: [],
       messages: [],
       activeUsersNum: 0
