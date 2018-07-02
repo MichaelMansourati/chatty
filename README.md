@@ -11,7 +11,7 @@ Chatty is a real time web messaging application built with React and assembled w
 
 ## Preview
 
-[Chatty preview](./build/docs/chatty.png)
+![Chatty preview](./build/docs/chatty.png)
 
 
 ## Dependencies
