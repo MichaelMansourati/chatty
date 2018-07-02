@@ -18,7 +18,7 @@ Chatty is a real time web messaging application built with React and assembled w
 
 ### App
 
-* babel-core"
+* babel-core
 * babel-loader
 * babel-preset-es2015
 * babel-preset-react
