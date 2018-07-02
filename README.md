@@ -1,4 +1,4 @@
-# React Boilerplate
+# Chatty
 
 Chatty is a real time web messaging application built with React and assembled with Babel and Webpack
 
